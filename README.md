@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! I am Rolando, a web developer with a background in Industrial Engineering and a passion for creating efficient and innovative digital solutions. My repository showcases a variety of projects that highlight my skills in HTML, CSS, JavaScript, React, and web development frameworks. This site also serves as a blog discussing development and business digital solutions.
 
-### Featured Projects
+## Featured Projects
 
 **Astronomy Club Website**  
 A comprehensive site for the Hermosillo Astronomical Community, featuring an image of the day from NASA's API, blog sections, and educational content. Built with HTML, CSS, JS, and Webpack.
