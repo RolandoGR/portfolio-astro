@@ -8,10 +8,10 @@ Welcome to my GitHub portfolio! I am Rolando, a web developer with a background 
     featuring an image of the day from NASA's API, blog sections, and educational content.
     Built with HTML, CSS, JS, and Webpack. 
     
-    Digital Solutions Packages: Excel-based service packages for web design, appointment systems, 
-    e-commerce, and hosting solutions. Includes detailed pricing and customizable options.
-    
     Zenith WordPress website for a local beauty business
+
+    Digital Solutions Packages: Excel-based service packages for management systems. 
+    App Scripts and App Sheets project that automates many processes of local clinic.  
     
 ## Skills and Technologies
 
