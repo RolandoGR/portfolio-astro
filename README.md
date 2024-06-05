@@ -1,6 +1,6 @@
 
 
-# Made with Astro and AstroWind 🚀 
+## Made with Astro and AstroWind 🚀 
 
 ## License
 
